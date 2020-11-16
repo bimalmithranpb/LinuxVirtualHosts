@@ -1,1 +1,1 @@
-** Apache Virtual hosts creator for debian based distros.
+**Apache Virtual hosts creator for debian based distros.
